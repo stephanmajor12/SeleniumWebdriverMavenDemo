@@ -33,3 +33,11 @@
 [INFO ] 2020-10-13 22:30:56.675 [main] TC02Flights - list8,807
 [INFO ] 2020-10-13 22:30:56.756 [main] TC02Flights - list8,807
 [INFO ] 2020-10-13 22:30:56.757 [main] TC02Flights - Page results are in decreasing order
+[INFO ] 2021-11-17 15:30:41.636 [main] TC01MainPage - Verify URL
+[INFO ] 2021-11-17 15:30:44.686 [main] TC01MainPage - Open URL
+[INFO ] 2021-11-17 15:30:44.691 [main] TC01MainPage - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2021-11-17 15:30:44.696 [main] TC01MainPage - Verify one-way flights
+[INFO ] 2021-11-17 15:30:45.091 [main] TC01MainPage - Click on search button with entering any details.
+[INFO ] 2021-11-17 15:30:45.128 [main] TC01MainPage - Error: Please enter a valid Source
+[INFO ] 2021-11-17 15:30:45.191 [main] TC01MainPage - Enter a valid source
+[INFO ] 2021-11-17 15:30:45.391 [main] TC01MainPage - Click on search button after adding valid source
